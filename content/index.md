@@ -21,4 +21,4 @@ A shared fantasy world built by our D&D group across two sessions of World Wizar
 | [[History/Primordial Age\|Primordial Age]] | Complete |
 | [[History/Prehistoric Age\|Prehistoric Age]] | Complete |
 | [[History/Ancient Age\|Ancient Age]] | Complete |
-| Present Age | Next session |
+| [[History/Present Age\|Present Age]] | Shaped by campaigns |
