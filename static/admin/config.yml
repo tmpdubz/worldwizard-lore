@@ -1,0 +1,47 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: content/assets
+public_folder: /assets
+
+# Shared field definitions
+x-fields: &default-fields
+  - { label: "Title", name: "title", widget: "string" }
+  - { label: "Content", name: "body", widget: "markdown" }
+
+collections:
+  - name: "peoples"
+    label: "Peoples & Civilizations"
+    folder: "content/Peoples"
+    create: true
+    slug: "{{fields.title}}"
+    fields: *default-fields
+
+  - name: "geography"
+    label: "Geography"
+    folder: "content/Geography"
+    create: true
+    slug: "{{fields.title}}"
+    fields: *default-fields
+
+  - name: "cities"
+    label: "Cities & Settlements"
+    folder: "content/Cities"
+    create: true
+    slug: "{{fields.title}}"
+    fields: *default-fields
+
+  - name: "history"
+    label: "History"
+    folder: "content/History"
+    create: true
+    slug: "{{fields.title}}"
+    fields: *default-fields
+
+  - name: "avatars"
+    label: "Avatars & Heroes"
+    folder: "content/Avatars"
+    create: true
+    slug: "{{fields.title}}"
+    fields: *default-fields
