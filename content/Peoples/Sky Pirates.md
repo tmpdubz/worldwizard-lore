@@ -1,3 +1,7 @@
+---
+title: "Sky Pirates"
+---
+
 # Sky Pirates
 
 **Alignment**: Chaotic Neutral  

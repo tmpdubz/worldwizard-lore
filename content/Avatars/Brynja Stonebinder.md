@@ -1,3 +1,7 @@
+---
+title: "Brynja Stonebinder"
+---
+
 # Brynja Stonebinder
 
 *The Burden-Bearer*

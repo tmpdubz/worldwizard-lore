@@ -1,3 +1,7 @@
+---
+title: "Exmara"
+---
+
 # Exmara
 
 **Alignment**: Chaotic (warlike)  

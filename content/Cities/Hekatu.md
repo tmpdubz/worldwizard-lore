@@ -1,3 +1,7 @@
+---
+title: "Hekatu"
+---
+
 # Hekatu
 
 **People**: [[Watu]]  

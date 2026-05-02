@@ -1,3 +1,7 @@
+---
+title: "The Spire"
+---
+
 # The Spire
 
 **People**: [[Verdant Ascendancy]]  

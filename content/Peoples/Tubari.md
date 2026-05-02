@@ -1,3 +1,7 @@
+---
+title: "Tubari"
+---
+
 # Tubari
 
 **Alignment**: Neutral (with strong culinary convictions)  

@@ -1,3 +1,7 @@
+---
+title: "Viatharal"
+---
+
 # Viatharal
 
 *"Elevation is a divine rite."*

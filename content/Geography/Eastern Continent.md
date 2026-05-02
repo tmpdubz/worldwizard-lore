@@ -1,3 +1,7 @@
+---
+title: "Eastern Continent"
+---
+
 # Eastern Continent
 
 The eastern continent runs roughly north to south, with two major appendages: a southeastern peninsula (homeland of the [[Illakamaq]]) and a northeastern island cluster (home to the [[Verdant Ascendancy]], the [[Kanza]], and the original homeland of the [[Hephari]]).

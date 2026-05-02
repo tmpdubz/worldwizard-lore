@@ -1,3 +1,7 @@
+---
+title: "The Central Sea"
+---
+
 # The Central Sea
 
 The central sea lies between the continents and contains several notable features.

@@ -1,3 +1,7 @@
+---
+title: "Thanoi Scholars"
+---
+
 # Thanoi Scholars
 
 **Alignment**: Neutral (isolationist)  

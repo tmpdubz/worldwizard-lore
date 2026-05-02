@@ -1,3 +1,7 @@
+---
+title: "Central Continent"
+---
+
 # Central Continent
 
 The central continent sits in the northern hemisphere between the western and eastern continents — a large, largely wild and undiscovered landmass. Much of its interior remains unmapped.

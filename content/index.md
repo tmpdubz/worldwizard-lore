@@ -1,3 +1,7 @@
+---
+title: "The Unnamed World"
+---
+
 # The Unnamed World
 
 A shared fantasy world built by our D&D group across two sessions of World Wizard. All future campaigns will be set here.

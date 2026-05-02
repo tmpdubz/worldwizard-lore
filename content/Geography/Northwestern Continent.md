@@ -1,3 +1,7 @@
+---
+title: "Northwestern Continent"
+---
+
 # Northwestern Continent
 
 The northwestern continent stretches from a vast arctic tundra in the north to a narrowing isthmus in the south. It is defined by two great landmarks: the [[Singing Mountain]] at its heart, and the [[Crystalline Mountains]] that wall off its northern tip.

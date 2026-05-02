@@ -1,3 +1,7 @@
+---
+title: "Stonefist Hall"
+---
+
 # Stonefist Hall
 
 **People**: [[Thalrûn]]  

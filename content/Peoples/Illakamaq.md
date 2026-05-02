@@ -1,3 +1,7 @@
+---
+title: "Illakamaq"
+---
+
 # Illakamaq
 
 *"Those who animate the shining stone"*

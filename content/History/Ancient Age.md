@@ -1,3 +1,7 @@
+---
+title: "The Ancient Age"
+---
+
 # The Ancient Age
 
 An era of expansion, war, and the emergence of avatars — powerful divine or heroic figures who embody the spirit of their peoples.

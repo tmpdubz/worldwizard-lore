@@ -1,3 +1,7 @@
+---
+title: "Hephari"
+---
+
 # Hephari
 
 **Alignment**: Originally Good; later Corrupted  

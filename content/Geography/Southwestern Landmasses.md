@@ -1,3 +1,7 @@
+---
+title: "Southwestern Landmasses"
+---
+
 # Southwestern Landmasses
 
 The southwestern region consists of two main landmasses: the southern tip of the western continent (homeland of the [[Lethari]]) and the large island called Thalrûnkar (homeland of the [[Thalrûn]]).

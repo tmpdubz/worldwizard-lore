@@ -1,3 +1,7 @@
+---
+title: "The Cheddar Czar"
+---
+
 # The Cheddar Czar
 
 **People**: [[Tubari]]  

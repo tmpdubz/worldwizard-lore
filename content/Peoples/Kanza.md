@@ -1,3 +1,7 @@
+---
+title: "Kanza"
+---
+
 # Kanza
 
 *Also: the Warden Wolves*

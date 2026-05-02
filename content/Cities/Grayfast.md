@@ -1,3 +1,7 @@
+---
+title: "Grayfast"
+---
+
 # Grayfast
 
 **People**: [[Kanza]]  

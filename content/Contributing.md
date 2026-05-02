@@ -1,3 +1,7 @@
+---
+title: "Contributing to the Lore"
+---
+
 # Contributing to the Lore
 
 This knowledge base grows in two ways: through the World Wizard sessions that established the ages, and through campaigns run in this world. This page explains how to add to it without breaking what's already here.

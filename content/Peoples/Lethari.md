@@ -1,3 +1,7 @@
+---
+title: "Lethari"
+---
+
 # Lethari
 
 **Alignment**: Good  

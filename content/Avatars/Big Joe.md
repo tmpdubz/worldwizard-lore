@@ -1,3 +1,7 @@
+---
+title: "Big Joe"
+---
+
 # Big Joe
 
 **People**: [[The Folk]]  

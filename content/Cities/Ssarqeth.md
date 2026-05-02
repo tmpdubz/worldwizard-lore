@@ -1,3 +1,7 @@
+---
+title: "Ssarqeth"
+---
+
 # Ssarqeth
 
 **People**: [[Kharakai]]  

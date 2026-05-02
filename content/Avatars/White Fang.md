@@ -1,3 +1,7 @@
+---
+title: "White Fang"
+---
+
 # White Fang
 
 **People**: [[Kanza]]  

@@ -1,3 +1,7 @@
+---
+title: "Quaharaqueth"
+---
+
 # Quaharaqueth
 
 **People**: [[Kharakai]]  

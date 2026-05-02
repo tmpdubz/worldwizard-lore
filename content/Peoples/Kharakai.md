@@ -1,3 +1,7 @@
+---
+title: "Kharakai"
+---
+
 # Kharakai
 
 *"Chaos is wasteful."*

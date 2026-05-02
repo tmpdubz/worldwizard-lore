@@ -1,3 +1,7 @@
+---
+title: "Erisians"
+---
+
 # Erisians
 
 *Also known as the Beach Dwarves*

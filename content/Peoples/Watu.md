@@ -1,3 +1,7 @@
+---
+title: "Watu"
+---
+
 # Watu
 
 **Alignment**: The ruling theocracy is Chaotic Evil; the general population is unhappy but compliant  

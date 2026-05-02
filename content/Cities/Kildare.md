@@ -1,3 +1,7 @@
+---
+title: "Kildare"
+---
+
 # Kildare
 
 **People**: [[Erisians]]  

@@ -1,3 +1,7 @@
+---
+title: "Canon Proposal: [Short title]"
+---
+
 # Canon Proposal: [Short title]
 
 **Proposed by**: [Your name]  

@@ -5,7 +5,6 @@ backend:
 media_folder: content/assets
 public_folder: /assets
 
-# Shared field definitions
 x-fields: &default-fields
   - { label: "Title", name: "title", widget: "string" }
   - { label: "Content", name: "body", widget: "markdown" }
@@ -45,3 +44,32 @@ collections:
     create: true
     slug: "{{fields.title}}"
     fields: *default-fields
+
+  - name: "campaigns"
+    label: "Campaigns"
+    folder: "content/Campaigns"
+    create: true
+    nested:
+      depth: 3
+    slug: "{{fields.title}}"
+    fields: *default-fields
+    filter:
+      field: title
+      value: "_Templates"
+      pattern: "^(?!_Templates).*"
+
+  - name: "canon_proposals"
+    label: "Canon Proposals"
+    folder: "content/Canon Proposals"
+    create: true
+    slug: "{{fields.title}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - label: "Status"
+        name: "status"
+        widget: "select"
+        options: ["Proposed", "Approved", "Rejected"]
+        default: "Proposed"
+      - { label: "Proposed by", name: "proposed_by", widget: "string" }
+      - { label: "Source campaign", name: "source_campaign", widget: "string", required: false }
+      - { label: "Content", name: "body", widget: "markdown" }

@@ -1,3 +1,7 @@
+---
+title: "Verdant Ascendancy"
+---
+
 # Verdant Ascendancy
 
 **Alignment**: Evil  

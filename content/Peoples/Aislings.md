@@ -1,3 +1,7 @@
+---
+title: "Aislings"
+---
+
 # Aislings
 
 **Alignment**: Neutral Good  

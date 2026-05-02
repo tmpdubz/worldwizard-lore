@@ -1,3 +1,7 @@
+---
+title: "Qhapaq Kamaq"
+---
+
 # Qhapaq Kamaq
 
 **People**: [[Illakamaq]]  

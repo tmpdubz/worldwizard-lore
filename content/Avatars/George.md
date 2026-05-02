@@ -1,3 +1,7 @@
+---
+title: "George"
+---
+
 # George
 
 **People**: Worshipped by the [[Erisians]]  
