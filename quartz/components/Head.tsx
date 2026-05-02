@@ -87,15 +87,22 @@ export default (() => {
         <meta name="generator" content="Quartz" />
         <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
         <script dangerouslySetInnerHTML={{__html: `
-          if (window.netlifyIdentity) {
-            window.netlifyIdentity.on("init", function(user) {
-              if (!user) {
-                window.netlifyIdentity.on("login", function() {
-                  document.location.href = "/admin/";
-                });
-              }
-            });
-          }
+          (function() {
+            var hash = window.location.hash;
+            if (hash && (hash.indexOf('invite_token=') > -1 || hash.indexOf('confirmation_token=') > -1 || hash.indexOf('recovery_token=') > -1)) {
+              window.location.href = '/admin/' + hash;
+              return;
+            }
+            if (window.netlifyIdentity) {
+              window.netlifyIdentity.on("init", function(user) {
+                if (!user) {
+                  window.netlifyIdentity.on("login", function() {
+                    document.location.href = "/admin/";
+                  });
+                }
+              });
+            }
+          })();
         `}} />
 
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
