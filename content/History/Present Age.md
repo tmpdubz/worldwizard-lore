@@ -4,7 +4,7 @@ title: "The Present Age"
 
 # The Present Age
 
-The Present Age has not yet been formally shaped. The ages before it — Primordial, Prehistoric, Ancient — left the world scarred, emptied, and rearranged. What follows is the world as campaigns find it.
+The Primordial, Prehistoric, and Ancient Ages left the world scarred, emptied, and rearranged. The Present Age begins in the aftermath of that collapse. Its history is not written in advance — it is shaped by the campaigns played in this world.
 
 ## The State of the World
 
