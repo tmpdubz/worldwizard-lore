@@ -1,5 +1,6 @@
 ---
 title: "Lethari"
+tags: ["prehistoric-age", "ancient-age", "present-age"]
 ---
 
 # Lethari

@@ -1,5 +1,6 @@
 ---
 title: "Tubari"
+tags: ["prehistoric-age", "ancient-age", "present-age"]
 ---
 
 # Tubari

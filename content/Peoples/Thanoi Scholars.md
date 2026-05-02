@@ -1,5 +1,6 @@
 ---
 title: "Thanoi Scholars"
+tags: ["prehistoric-age"]
 ---
 
 # Thanoi Scholars

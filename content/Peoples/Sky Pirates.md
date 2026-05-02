@@ -1,5 +1,6 @@
 ---
 title: "Sky Pirates"
+tags: ["ancient-age", "present-age"]
 ---
 
 # Sky Pirates

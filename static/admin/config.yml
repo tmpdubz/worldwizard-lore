@@ -15,7 +15,19 @@ collections:
     folder: "content/Peoples"
     create: true
     slug: "{{fields.title}}"
-    fields: *default-fields
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - label: "Active Ages"
+        name: "tags"
+        widget: "select"
+        multiple: true
+        required: false
+        options:
+          - { label: "Primordial Age", value: "primordial-age" }
+          - { label: "Prehistoric Age", value: "prehistoric-age" }
+          - { label: "Ancient Age", value: "ancient-age" }
+          - { label: "Present Age", value: "present-age" }
+      - { label: "Content", name: "body", widget: "markdown" }
 
   - name: "geography"
     label: "Geography"

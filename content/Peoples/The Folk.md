@@ -1,5 +1,6 @@
 ---
 title: "The Folk"
+tags: ["prehistoric-age", "ancient-age", "present-age"]
 ---
 
 # The Folk

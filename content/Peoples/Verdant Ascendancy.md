@@ -1,5 +1,6 @@
 ---
 title: "Verdant Ascendancy"
+tags: ["prehistoric-age", "ancient-age"]
 ---
 
 # Verdant Ascendancy

@@ -1,5 +1,6 @@
 ---
 title: "Kharakai"
+tags: ["prehistoric-age", "ancient-age"]
 ---
 
 # Kharakai

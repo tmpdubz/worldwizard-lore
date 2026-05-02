@@ -1,5 +1,6 @@
 ---
 title: "Thalrûn"
+tags: ["prehistoric-age", "ancient-age", "present-age"]
 ---
 
 # Thalrûn

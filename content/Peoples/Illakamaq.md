@@ -1,5 +1,6 @@
 ---
 title: "Illakamaq"
+tags: ["prehistoric-age", "ancient-age"]
 ---
 
 # Illakamaq

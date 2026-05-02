@@ -1,5 +1,6 @@
 ---
 title: "Watu"
+tags: ["prehistoric-age", "ancient-age"]
 ---
 
 # Watu

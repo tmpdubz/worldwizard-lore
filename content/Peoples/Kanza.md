@@ -1,5 +1,6 @@
 ---
 title: "Kanza"
+tags: ["prehistoric-age", "ancient-age", "present-age"]
 ---
 
 # Kanza
